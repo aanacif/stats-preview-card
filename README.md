@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./statsCard.png)
 
 ### Links
 
@@ -49,13 +49,11 @@ for (let coffee = 1; project != done; coffee++) {
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Flexbox
 - CSS Grid
-- Javascript
 
 ### What I learned
 
-Need more practice with ::before & ::after pseudo-elements :)
+Not sold on the Ipad width layout but, we'll live :)
 
 ## Author
 

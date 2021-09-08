@@ -122,7 +122,7 @@
   grid-area: picture;
   border-radius: 0 10px 10px 0;
   position: relative;
-  background-image: url(./app/images/image-header-desktop.jpg);
+  background-image: url(../app/images/image-header-desktop.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: aquamarine;
@@ -130,7 +130,6 @@
   @include breakpoint-down(small) {
     border-radius: 10px 10px 0 0;
   }
-
   .layer-violet {
     position: absolute;
     top: 0;
