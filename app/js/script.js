@@ -1,5 +1,2 @@
-console.log('HELLO');
+console.log('How u doin\'');
 
-const test = () => {
-	console.log('this is a test');
-};

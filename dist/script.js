@@ -1,2 +1,2 @@
-"use strict";console.log("HELLO");var test=function(){console.log("this is a test")};
+"use strict";console.log("How u doin'");
 //# sourceMappingURL=script.js.map
