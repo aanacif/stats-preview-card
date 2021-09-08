@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/aanacif/article-preview](https://github.com/aanacif/article-preview)
-- Live Site URL: [https://aanacif.github.io/article-preview](https://aanacif.github.io/article-preview)
+- Solution URL: [https://github.com/aanacif/stats-preview-card](https://github.com/aanacif/stats-preview-card)
+- Live Site URL: [https://aanacif.github.io/stats-preview-card/](https://aanacif.github.io/stats-preview-card/)
 
 ## My process
 
