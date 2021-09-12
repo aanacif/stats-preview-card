@@ -1,12 +1,12 @@
 @use '../util' as *;
 
 .container {
-  margin: 3rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
   padding: 0;
-  height: 100vh;
   max-width: rem(1440);
-  max-height: rem(800);
-  @include breakpoint-down(medium) {
-    min-height: rem(800);
-  }
+  height: 100vh;
 }

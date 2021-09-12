@@ -1,10 +1,16 @@
 @use '../util' as *;
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  color: var(--transparentwhite);
-}
-.attribution a {
-  color: var(--softviolet);
+footer {
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+    color: var(--transparentwhite);
+  }
+  .attribution a {
+    color: var(--softviolet);
+  }
 }

@@ -6,7 +6,6 @@
   grid-template-rows: 446px;
   justify-content: center;
   align-content: center;
-  height: 800px;
   grid-template-areas: "details picture";
   @include breakpoint-down(medium) {
     grid-template-columns: minmax(416px, 738px);
